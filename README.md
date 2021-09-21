@@ -32,7 +32,7 @@ Il faudra lancer la commande :
 ./script.sh arg1 arg2
 ```
 
-arg1 correspond au fichier .csv et arg2 au fichier .json
+arg1 correspond au fichier .csv contenant la liste des adresses MAC, et arg2 au fichier .json correspondant aux différentes versions d'application.
 
 # Comment construire et comment exécuter des tests
 
